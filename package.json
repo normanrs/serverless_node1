@@ -1,0 +1,23 @@
+{
+  "name": "serverless_node1",
+  "version": "1.0.0",
+  "description": "An exercise in building a serverless api in Node",
+  "main": "handler.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/normanrs/serverless_node1.git"
+  },
+  "keywords": [
+    "serverless",
+    "node"
+  ],
+  "author": "Norman Schultz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/normanrs/serverless_node1/issues"
+  },
+  "homepage": "https://github.com/normanrs/serverless_node1#readme"
+}
