@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/normanrs/serverless_node1/issues"
   },
-  "homepage": "https://github.com/normanrs/serverless_node1#readme"
+  "homepage": "https://github.com/normanrs/serverless_node1#readme",
+  "devDependencies": {
+    "jest": "^26.5.2"
+  }
 }
