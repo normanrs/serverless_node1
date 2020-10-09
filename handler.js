@@ -1,4 +1,4 @@
-// 'use strict';
+'use strict';
 
 const hello = async event => {
   return {
@@ -18,7 +18,7 @@ const details = async event => {
     statusCode: 200,
     body: JSON.stringify(
       {
-        message: 'Serverless Event Input Details:',
+        message: 'Serverless event input details:',
         input: event,
       },
       null,
